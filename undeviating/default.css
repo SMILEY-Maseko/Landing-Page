@@ -7,7 +7,7 @@
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #2056ac;
+		background: grey;
 		font-family: 'Questrial', sans-serif;
 		font-size: 12pt;
 		color: rgba(0,0,0,.6);
@@ -306,7 +306,7 @@
 /* Header                                                                        */
 /*********************************************************************************/
     #header{
-		background: #555 url("images/code3.jpeg");
+		background: #555 url("images/code5.jpeg");
 		background-size: cover;
 		color: #555;
 		padding: 6em 0;
@@ -317,7 +317,7 @@
 	#header-wrapper
 	{
 		overflow: hidden;
-		background: #2056ac;
+		background: white;
 	}
 
 	#header
